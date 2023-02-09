@@ -1,5 +1,5 @@
 # Swagger-Petstore-API-Automation
-Framawork uses :
+Framework uses :
 -TestNG
 -Gradle
 
