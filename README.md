@@ -1,2 +1,6 @@
 # Swagger-Petstore-API-Automation
-Added only tests for REST-API
+Framawork uses :
+-TestNG
+-Gradle
+
+**Rest-APIs tests
